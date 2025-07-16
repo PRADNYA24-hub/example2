@@ -1,0 +1,39 @@
+body{
+    background: gray;
+   text-align: center; 
+}
+nav{
+    background-color: rgb(21, 21, 21);
+    text-align: center;
+    padding: 20px;
+}
+
+nav a{
+    margin: 15px;
+    color: rgb(230, 118, 139);
+    font-weight: bold;
+    font-size: 1.3em; 
+    text-decoration: none;
+}
+
+p{
+    text-shadow: rgb(17, 2, 9);
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 1.2em;
+    background-color: crimson;
+}
+.banner-section{
+    text-align: center;
+    margin-top: 20px;
+}
+button{
+    margin-top: 10px;
+    padding: 8px 16px;
+    background: #ee0534;
+    color: white;
+    border:none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bolder;
+}
